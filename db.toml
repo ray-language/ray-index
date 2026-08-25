@@ -1,0 +1,5 @@
+# index of db
+
+[0.1.0]
+git = "git+https://github.com/ray-language/db@v0.1.0"
+hash = "sha256:c27f5bd5cbb2f811112e164dd6113938cece2d89f85ec0b60addce114b831b37"
