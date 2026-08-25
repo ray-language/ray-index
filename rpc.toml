@@ -1,0 +1,5 @@
+# index of rpc
+
+[0.1.0]
+git = "git+https://github.com/ray-language/rpc@v0.1.0"
+hash = "sha256:3d6e69ea71cf4e4a4930337e20bf41438e208f40d7e1edf4200348b17c1fe049"
