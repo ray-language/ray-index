@@ -1,0 +1,5 @@
+# index of tz
+
+[0.1.0]
+git = "git+https://github.com/ray-language/tz@v0.1.0"
+hash = "sha256:ac284d8cb8fc6851434dd626344bee15d8bba3aeb26f01299af3b734aa793354"
