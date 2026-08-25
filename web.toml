@@ -1,0 +1,5 @@
+# index of web
+
+[0.1.0]
+git = "git+https://github.com/ray-language/web@v0.1.0"
+hash = "sha256:60ad7cfe9ba1cc8cf288f2fbf90580311ff7f8410df64d78e807e58821e37afb"
