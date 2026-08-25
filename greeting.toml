@@ -1,0 +1,5 @@
+# index of greeting
+
+[1.0.0]
+git = "git+git@github.com:ray-language/greeting.git@v1.0.0"
+hash = "sha256:5c241906d36a90e6b22daf64b2785ffd0a46453990e4098e1d45476d1b8609e8"
