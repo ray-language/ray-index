@@ -3,3 +3,7 @@
 [1.0.0]
 git = "git+git@github.com:ray-language/greeting.git@v1.0.0"
 hash = "sha256:5c241906d36a90e6b22daf64b2785ffd0a46453990e4098e1d45476d1b8609e8"
+
+[1.0.1]
+git = "git+https://github.com/ray-language/greeting@v1.0.1"
+hash = "sha256:4315d402e841e223771434e249c987fd6caf5cf07e6c8ba1af2885033552dee4"
