@@ -1,0 +1,4 @@
+# search metadata of 'rpc' (M268): refreshed on every publish
+description = "RPC between raylang programs: typed remote calls over the network"
+keywords = "rpc, remote, calls, ipc, network, services"
+modules = "rpc/rpc"

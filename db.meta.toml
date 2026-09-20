@@ -1,0 +1,4 @@
+# search metadata of 'db' (M268): refreshed on every publish
+description = "Database clients: PostgreSQL, MySQL, MongoDB (BSON) and SQLite"
+keywords = "database, db, sql, postgres, postgresql, mysql, mongo, mongodb, bson, sqlite, client"
+modules = "db/bson, db/mongo, db/mysql, db/postgres, db/sqlite"

@@ -1,0 +1,4 @@
+# search metadata of 'net' (M268): refreshed on every publish
+description = "Networking for raylang: HTTP client (fetch) and production web server, HTTP/2, WebSocket, SSE, DNS, JWT, OAuth2, mail, Redis and Postgres clients"
+keywords = "http, https, fetch, client, webserver, server, http2, websocket, sse, streaming, dns, jwt, oauth2, mail, smtp, redis, postgres, grpc, metrics, ntp, udp, tls, cookie, trace, log"
+modules = "net/cookie, net/crypto, net/dns, net/dns_cache, net/grpc_client, net/hpack, net/http, net/http2, net/http2_client, net/jwt, net/jwt_eddsa, net/log, net/mail, net/metrics, net/ntp, net/oauth2, net/postgres, net/redis, net/scram, net/sigv4, net/sse, net/time, net/trace, net/udp, net/webserver, net/websocket, net/websocket_client"

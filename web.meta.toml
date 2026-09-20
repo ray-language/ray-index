@@ -1,0 +1,4 @@
+# search metadata of 'web' (M268): refreshed on every publish
+description = "The Express-style web application framework on top of net/webserver: routing, middleware, templates, sessions and state"
+keywords = "web, framework, express, routing, middleware, server, app, backend, templates, sessions, desktop, mobile"
+modules = "web/framework"
