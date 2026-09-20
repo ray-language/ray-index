@@ -1,0 +1,4 @@
+# search metadata of 'tz' (M268): refreshed on every publish
+description = "IANA time zones: local time, offsets and conversions"
+keywords = "time, timezone, tz, iana, local, date, offset, dst"
+modules = "tz/tz"
