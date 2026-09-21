@@ -15,3 +15,7 @@ hash = "sha256:2a1868e682429a3449fb179595e4aa1e8da4f05e119688ad94a83e023aa441e2"
 [0.3.1]
 git = "git+https://github.com/ray-language/net@v0.3.1"
 hash = "sha256:fbb29ca3dda6295c7eb6eeb13e37630174d17b87600b9d489d4d7bcfcbf6889e"
+
+[0.3.2]
+git = "git+https://github.com/ray-language/net@v0.3.2"
+hash = "sha256:b44aea5cf4fba11abb7f55d16dbb7705c9ec8dff9ba2e0aed12de840bb6ae478"
