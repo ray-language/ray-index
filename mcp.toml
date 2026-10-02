@@ -1,0 +1,5 @@
+# index of mcp
+
+[0.1.0]
+git = "git+https://github.com/ray-language/mcp@v0.1.0"
+hash = "sha256:ec5ecde49590a1527e2149e201438fd68ace58b44e124837ae096023ef64448c"

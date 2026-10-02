@@ -1,0 +1,4 @@
+# search metadata of 'mcp': refreshed on every publish
+description = "Model Context Protocol for raylang: a client (tools, resources, server instructions; one session actor per server) and a server (expose your app's tools and resources), both over stdio and Streamable HTTP"
+keywords = "mcp, model-context-protocol, llm, agent, tools, json-rpc, stdio, sse, client, server"
+modules = "mcp/mcp, mcp/protocol, mcp/serve"
