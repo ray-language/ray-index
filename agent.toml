@@ -1,0 +1,5 @@
+# index of agent
+
+[0.1.0]
+git = "git+https://github.com/ray-language/agent@v0.1.0"
+hash = "sha256:3d9ba4419ba66c611dfa814c16994d7eff21717a05757b33f0396df1f78e5d50"

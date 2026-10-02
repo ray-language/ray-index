@@ -1,0 +1,4 @@
+# search metadata of 'agent': refreshed on every publish
+description = "An agent loop for raylang: a model, your tools and the tools of MCP servers, with a step budget, autonomy levels and an approval hook before anything that changes things"
+keywords = "agent, llm, ai, tools, mcp, loop, approval, autonomy, claude, openai"
+modules = "agent/agent"
