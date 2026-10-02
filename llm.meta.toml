@@ -1,0 +1,4 @@
+# search metadata of 'llm': refreshed on every publish
+description = "Talk to language models from raylang: one conversation model over the Anthropic Messages API and the OpenAI Chat Completions dialect (OpenAI, Ollama, OpenRouter, Groq, Mistral, Gemini…), with tool calls, streaming, retries and prompt caching"
+keywords = "llm, ai, anthropic, claude, openai, ollama, openrouter, chat, streaming, tools, agent, sse"
+modules = "llm/anthropic, llm/config, llm/llm, llm/message, llm/openai, llm/wire"
