@@ -1,4 +1,4 @@
 # search metadata of 'db': refreshed on every publish
 description = ""
 keywords = ""
-modules = "db/bson, db/mongo, db/mysql, db/postgres, db/sqlite"
+modules = "db/bson, db/mongo, db/mysql, db/postgres, db/sessions, db/sqlite"
