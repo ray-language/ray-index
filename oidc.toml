@@ -1,0 +1,5 @@
+# index of oidc
+
+[0.1.0]
+git = "git+https://github.com/ray-language/oidc@v0.1.0"
+hash = "sha256:79bbac20dda445e6eba23c2e33bd71302155dbdf1c72e5f85ade64b5aa862f45"

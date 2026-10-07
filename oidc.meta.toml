@@ -1,0 +1,4 @@
+# search metadata of 'oidc': refreshed on every publish
+description = "OpenID Connect for raylang apps: discovery, authorization code + PKCE, ID and access token verification against the provider's JWKS, refresh, userinfo, RP-initiated logout"
+keywords = "oidc, openid, oauth2, jwt, jwks, pkce, login, sso"
+modules = "oidc/jose, oidc/login, oidc/provider, oidc/tokens"
