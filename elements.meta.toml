@@ -1,0 +1,4 @@
+# search metadata of 'elements': refreshed on every publish
+description = "ray-elements for raylang apps: the npm package @raylang/elements served to the app's pages by its npm name ([web] package) and the native bridge for std/ui windows (elements/bridge)"
+keywords = ""
+modules = "elements/bridge, elements/version"
