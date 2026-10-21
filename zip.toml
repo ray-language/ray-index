@@ -1,0 +1,5 @@
+# index of zip
+
+[0.1.0]
+git = "git+https://github.com/ray-language/zip@v0.1.0"
+hash = "sha256:3f23252730553094f68c6d9acd146a511b42e009285abae118295bc60bace34f"

@@ -1,0 +1,4 @@
+# search metadata of 'zip': refreshed on every publish
+description = ""
+keywords = ""
+modules = "zip/dostime, zip/format, zip/zip"
