@@ -1,4 +1,4 @@
-# search metadata of 'rpc' (M268): refreshed on every publish
+# search metadata of 'rpc': refreshed on every publish
 description = ""
 keywords = ""
 modules = "rpc/rpc"
