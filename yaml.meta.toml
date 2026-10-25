@@ -1,0 +1,4 @@
+# search metadata of 'yaml': refreshed on every publish
+description = "YAML 1.2 for raylang: read a document into std/json's ordered Doc (block and flow collections, every scalar style, anchors, aliases and merge keys) and write a Doc back as YAML"
+keywords = "yaml, openapi, config, parser, kubernetes, ci"
+modules = "yaml/yaml"

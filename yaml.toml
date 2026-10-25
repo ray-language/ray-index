@@ -1,0 +1,5 @@
+# index of yaml
+
+[0.1.0]
+git = "git+https://github.com/ray-language/yaml@v0.1.0"
+hash = "sha256:bfc7da65444b85f347101eb32ded54618b284a5614b12f58606b855c8977646d"
